@@ -1,2 +1,5 @@
 fastapi
-uvicorn[standard]
+pydantic
+uvicorn
+PyVirtualDisplay
+DrissionPage==4.0.5.6
